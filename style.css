@@ -1,0 +1,25 @@
+header {
+ width: 700px;
+
+ 
+}
+body main p{
+  font-family:"Times New Roman";
+  padding-left: 5px;
+  padding-right: 5px;
+  border:2px dotted blue; 
+
+}
+footer{
+  background-color: rgb(105, 105, 105);
+
+}
+footer h2{
+  font-family: Arial;
+  text-align: center;
+  text-decoration: none;
+}
+p{
+  text-decoration-color: red;
+
+}
