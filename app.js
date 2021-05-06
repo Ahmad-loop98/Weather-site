@@ -1,5 +1,8 @@
 alert('hello there') // to be friendly with users
+<<<<<<< HEAD
 /*
+=======
+>>>>>>> 958e7a9c16dd9366b9522538ec7d61eeb9f40959
 var cityName ='Amman'
 var district ='west'
 var phoneNum =''
@@ -22,6 +25,7 @@ else {
 alert ('You prefer either autamn or spring')
 }
 
+<<<<<<< HEAD
 
 */
 var city = prompt('Whats is your city?')
@@ -52,3 +56,5 @@ else if (season ==='summer'){
 document.write(img);
   
  
+=======
+>>>>>>> 958e7a9c16dd9366b9522538ec7d61eeb9f40959
