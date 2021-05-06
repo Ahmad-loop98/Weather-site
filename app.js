@@ -1,5 +1,5 @@
 alert('hello there') // to be friendly with users
-<<<<<<< HEAD
+
 /*
 =======
 >>>>>>> 958e7a9c16dd9366b9522538ec7d61eeb9f40959
@@ -56,5 +56,4 @@ else if (season ==='summer'){
 document.write(img);
   
  
-=======
->>>>>>> 958e7a9c16dd9366b9522538ec7d61eeb9f40959
+
